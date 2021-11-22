@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RentalApartmentApp.iml" filepath="$PROJECT_DIR$/.idea/modules/RentalApartmentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RentalApartmentApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RentalApartmentApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myapplication/RentalApartmentApp.app.myapplication.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myapplication/RentalApartmentApp.app.myapplication.iml" />
+    </modules>
+  </component>
+</project>
